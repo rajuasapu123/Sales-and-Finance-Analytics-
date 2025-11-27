@@ -1,4 +1,4 @@
-# AtliQ's Sales-and-Finance-Analytics
+# AtliQ's Sales-and-Finance-Analytics 
 ## 🏢Introduction
 AtliQ is a hardware Manufacturing company that manufactures hardware components such personal computers,mouse,keyboard and other networking segments and sells across the globe.
 ## 📌Project Objective
