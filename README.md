@@ -28,7 +28,7 @@ Csv files from AtliQ Hardware Technologies:
  - Top & Bottom 5 Products
  - P&l Statemnt by Fiscal Year
  - P&l Statemnt by Fiscal Months
- - P&l Statemnt by Fiscal Months
+ - P&l by Markets
  
 
 ## ✅Conclusion
